@@ -161,17 +161,9 @@ This project follows a structured workflow to transform e-commerce transactions 
 
 ## 📈 Dashboard Preview
 
-The dashboard provides a consolidated overview of e-commerce sales, customer segments, product categories, brand costs, city-wise performance, and order statuses.
 
-**Dashboard Screenshot:**
+![E-Commerce Sales Analysis Dashboard](Image/E-commerce_Dashboard.png)
 
-_Add your dashboard screenshot link below._
-
-Example:
-
-`![E-Commerce Sales Analysis Dashboard](Images/E-Commerce_Sales_Dashboard.png)`
-
-*Replace the example image path with the actual folder and image filename in your GitHub repository.*
 
 ## 🔍 Key Insights
 
